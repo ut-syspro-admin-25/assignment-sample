@@ -13,7 +13,7 @@ Just have a try!
 
 - Slide: [here](https://docs.google.com/presentation/d/1B-RpYS2flYxuJ3whyyUykvRLiq9ut1LldmgxfGEKu94/edit?usp=sharing) (ECCS email required) 
 - Date assigned: ***2024/04/08***
-- Date due: ***2024/04/08*** (tentative)
+- Date due: ***2024/04/08*** (tentative: check this page for the latest deadline.)
 
 ## Notes
 
@@ -24,9 +24,7 @@ Just have a try!
 1. Be punctual
     - Overdue submissions might lead to ***penalty points***.
     - Inexorable reasons are allowed sometimes.
-    - Check [***here***](https://github.com/ut-syspro-admin/assignment-sample) for the latest deadline.
 1. Be active
     - Complete as many assignments as possible.
-    - ***On-site attendance*** is recommended.
     - ***Communications*** are always beneficial.
 
