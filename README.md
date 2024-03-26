@@ -26,5 +26,5 @@ Just have a try!
     - Inexorable reasons are allowed sometimes.
 1. Be active
     - Complete as many assignments as possible.
-    - ***Communications*** will be beneficial to solve the assignments.
+    - ***Communications*** will be beneficial to solve assignments.
 
