@@ -11,7 +11,7 @@ Just have a try!
 
 ## Assignment
 
-- Slide: [here](https://docs.google.com/presentation/d/1B-RpYS2flYxuJ3whyyUykvRLiq9ut1LldmgxfGEKu94/edit?usp=sharing) (ECCS email required) 
+- Slide: [here](https://drive.google.com/drive/folders/183djJIkGVDYmz3njkCCW2-0ZPv032fsU?usp=sharing)(ECCS email required) 
 - Date due: ***2024/04/08*** (tentative: check this page for the latest deadline.)
 
 ## Notes
